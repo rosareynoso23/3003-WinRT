@@ -1,4 +1,5 @@
 Fall 2021 C++/WinRT Application for programming 2
 
 Output of the program:
-![Screenshot (1)](https://user-images.githubusercontent.com/62119604/133916409-ee733ae8-947d-41c3-9511-a55f680f5953.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/62119604/134069021-d387ccdc-0a8d-41b6-9784-f0de2bb00c94.png)
